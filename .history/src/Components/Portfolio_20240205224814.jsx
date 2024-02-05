@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/design-desk.jpeg";
 
-const imageAltText = "Laptops with books and smartphone with pencils";
+const imageAltText = "desktop with books and laptop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "Laptops with books and smartphone with pencils";
  */
 const projectList = [
   {
-    title: "Police Eligibility Application",
+    title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
-      "Enhancing police recruitment with a user-friendly eligibility application, utilizing cutting-edge front-end tools for seamless navigation and efficient data processing.",
-    url: "",
+      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Job Portal",
+    title: "Web Development for Beginners",
     description:
-      "Streamline job searches with our front-end powered project, offering a user-friendly interface for efficient job hunting and application processes.",
+      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Professional Resume",
+    title: "My Resume Site",
     description:
-      " Showcasing skills, achievements, and experience succinctly, crafting a compelling narrative for career success and opportunities",
-    url: "https://drive.google.com/file/d/17Mv7mt0nEA42QsLEELqy69CSFhJRm6EX/view?usp=sharing",
+      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "Waste Management System",
+    title: "GitHub Codespaces and github.dev",
     description:
-      "Streamlining collection, recycling, and disposal processes for sustainable practices, minimizing environmental impact while optimizing resources.",
-    url: "",
+      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
